@@ -3,7 +3,7 @@ Skrypt nie należy do mnie lecz jest to przepisany skrypt z QbCore do ESX. Orgin
 
 
 
-## Dependencies
+## Potrzebne Skrypty
 - <a href="https://github.com/mkafrin/PolyZone">**PolyZone**</a>
 
 
